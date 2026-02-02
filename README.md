@@ -1,6 +1,22 @@
-# 💫 About Me:
-I am a Software Engineering student with a strong passion for Data Analytics, Data Science, and Artificial Intelligence & Machine Learning, driven by curiosity and a desire to build intelligent, data-driven solutions. I enjoy working at the intersection of data, logic, and technology, where insights turn into impact.<br>I have hands-on experience across the entire data lifecycle — from data collection and cleaning to exploratory data analysis, visualization, and model building. I am particularly interested in uncovering hidden patterns, deriving actionable insights, and applying machine learning techniques to solve real-world problems.<br>With a solid foundation in Python programming and computer science fundamentals, I continuously strive to improve my analytical thinking and technical depth. I actively explore emerging tools, frameworks, and AI concepts, and I believe in learning by building, experimenting, and collaborating.<br>I am highly motivated, detail-oriented, and eager to contribute to impactful projects, open-source communities, and innovation-driven teams while growing into a data-focused software professional.<br>🧠 Technical Skills & Expertise<br>📊 Data Analytics & Data Science<br>Data Cleaning, Wrangling & Preprocessing<br>Exploratory Data Analysis (EDA)<br>Statistical Analysis & Data Interpretation<br>Data Visualization & Insight Storytelling<br>SQL for Data Querying & Analysis<br>Excel for Analytics & Reporting<br>🤖 Artificial Intelligence & Machine Learning<br>Machine Learning Fundamentals<br>Supervised & Unsupervised Learning<br>Regression, Classification & Clustering<br>Model Evaluation & Performance Metrics<br>Introductory NLP & Predictive Analytics<br>AI-Driven Problem Solving<br>💻 Programming & Tools<br>Python (Pandas, NumPy, Matplotlib, Seaborn)<br>SQL, Git & GitHub<br>Jupyter Notebook, Google Colab<br>Basic API Handling & Data Integration<br>🚀 Professional Strengths<br>Strong Analytical & Logical Thinking<br>Problem-Solving Mindset<br>Continuous Learner & Self-Driven<br>Clean Documentation & Collaboration<br>Research-Oriented Approach<br>🌱 Currently Exploring<br>Advanced Data Analytics & Machine Learning concepts<br>Building real-world, end-to-end data projects<br>Applying AI techniques to practical use cases<br>Open to collaborations, internships, and research opportunities
+💫 About Me
 
+I am a Software Engineering student with a strong interest in Data Analytics, Data Science, and AI & Machine Learning. I enjoy working with data to extract meaningful insights and build intelligent, data-driven solutions. With hands-on exposure to data analysis, visualization, and basic machine learning, I am continuously strengthening my technical and analytical skills. I am a curious learner, detail-oriented, and motivated to contribute to real-world projects, collaborative teams, and innovation-focused environments.
+
+🧠 Core Skills
+
+Data Analytics & Data Science: Data cleaning, EDA, visualization, SQL, Excel
+
+AI & Machine Learning: ML fundamentals, regression, classification, clustering, model evaluation
+
+Programming & Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), Git/GitHub, Jupyter, Colab
+
+🚀 Strengths
+
+Analytical thinking • Problem-solving mindset • Continuous learner • Team collaboration
+
+🌱 Currently Exploring
+
+Advanced data analytics, machine learning concepts, and end-to-end data projects
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AAV7eSju) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harshshrivastav_217?igsh=MTNwaXZnZ2gwdmR2dg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-raj-shrivastav-915448245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshrajshrivastav2xy@gmail.com) 
